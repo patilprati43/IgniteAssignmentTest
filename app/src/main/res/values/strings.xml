@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ignite</string>
+    <string name="title">Gutenberg Project</string>
+    <string name="subtitle">A social cataloging website that allows you to
+freely search its database of books,
+annotations, and reviews.</string>
+    <string name="fiction">FICTION</string>
+    <string name="drama">DRAMA</string>
+    <string name="humor">HUMOR</string>
+    <string name="politics">POLITICS</string>
+    <string name="philosophy">PHILOSOPHY</string>
+    <string name="history">HISTORY</string>
+    <string name="adventure">ADVENTURE</string>
+    <string name="search">Search</string>
+    <string name="error">"No internet connection"</string>
+</resources>
